@@ -13,7 +13,7 @@ function langLoved($scope) {
 
         {
             text: 'CSS3',
-            desc: 'A possibilidade de completar o processo de design no browser Inovação em animações 2D e 3D, novos seletores, layout dinâmicos com a propriedade Flexbox.'
+            desc: 'A possibilidade de completar o processo de design no browser. Inovação em animações 2D e 3D, novos seletores, layout dinâmicos com a propriedade Flexbox.'
         },
 
         {
