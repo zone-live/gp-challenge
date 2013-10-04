@@ -3,12 +3,12 @@ function langLoved($scope) {
 
     $scope.languages = [{
             text: 'AngularJS',
-            desc: 'É MVC, a aplicação é escrita em componentes separados e o AngularJS depois atua como cola entre eles. Usa o HTML para declarar a UI (data-binding) e definir a execução da app. Permite diretivas para definir comportamentos como tabs, acordeão, grid: <tab></tab> <accordion></accordion>. Escrevemos muit menos HTML pelo facto de tornar o HTML em templates.'
+            desc: 'É MVC, a aplicação é escrita em componentes separados e o AngularJS depois atua como cola entre eles. Usa o HTML para declarar a UI (data-binding) e definir a execução da app. Permite diretivas para definir comportamentos como tabs, acordeão, grid: <tab></tab> <accordion></accordion>. Escrevemos muito menos HTML pelo facto de tornar o HTML em templates.'
         },
 
         {
             text: 'HTML5',
-            desc: 'Power to HTML! Suporte para audio e video, maior índice de acessibilidade por termos uma nova semântica. HTML mais limpor, possibilidade de usar local storage para guardar dados localmente, funcionalidde de drag and drop, uso de canvas para gráficos... Uma outra grande vantagem de usar HTML5 é a sua integração com dispositivos móveis e a facilidade de o usar com bibliotecas como o phonegap para criar aplicações web para mobile.'
+            desc: 'Power to HTML! Suporte para audio e video, maior índice de acessibilidade por termos uma nova semântica. HTML mais limpo, possibilidade de usar local storage para guardar dados localmente, funcionalidde de drag and drop, uso de canvas para gráficos... Uma outra grande vantagem de usar HTML5 é a sua integração com dispositivos móveis e a facilidade de o usar com bibliotecas como o phonegap para criar aplicações web para mobile.'
         },
 
         {
