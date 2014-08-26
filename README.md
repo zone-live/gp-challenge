@@ -1,4 +1,4 @@
-plx-layout
+AngularJS Paralax Layout
 ============
 
 A simple one page layout with angular data binding.
